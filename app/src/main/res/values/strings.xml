@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moctest GPSC</string>
+    <string name="welcome_title">Welcome to Moctest GPSC</string>
+    <string name="welcome_message">Prepare for your GPSC exam with mock tests</string>
+    <string name="start_test">Start Test</string>
+    <string name="view_results">View Results</string>
+    <string name="settings">Settings</string>
+</resources>
